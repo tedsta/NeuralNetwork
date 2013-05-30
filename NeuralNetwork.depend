@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1368844974 source:c:\users\teddy\programming\neuralnetwork\src\neuron.cpp
+	"Neuron.h"
+	<cstdlib>
+	<iostream>
+
+1368862343 c:\users\teddy\programming\neuralnetwork\include\neuron.h
+	<cstddef>
+	<vector>
+
+1368862947 source:c:\users\teddy\programming\neuralnetwork\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"Neuron.h"
+	"InputNeuron.h"
+	"ActivationNeuron.h"
+	"ContextNeuron.h"
+	"BiasNeuron.h"
+	"NeuralNetwork.h"
+	<cmath>
+
+1368862882 source:c:\users\teddy\programming\neuralnetwork\src\neuralnetwork.cpp
+	"NeuralNetwork.h"
+	<iostream>
+	"Neuron.h"
+	"InputNeuron.h"
+	"ActivationNeuron.h"
+	"ContextNeuron.h"
+	"BiasNeuron.h"
+
+1368948914 c:\users\teddy\programming\neuralnetwork\include\neuralnetwork.h
+	<cstddef>
+	<vector>
+
+1368862924 source:c:\users\teddy\programming\neuralnetwork\src\activationneuron.cpp
+	"ActivationNeuron.h"
+	<cmath>
+
+1368681117 c:\users\teddy\programming\neuralnetwork\include\activationneuron.h
+	"Neuron.h"
+
+1368681167 source:c:\users\teddy\programming\neuralnetwork\src\inputneuron.cpp
+	"InputNeuron.h"
+
+1368680916 c:\users\teddy\programming\neuralnetwork\include\inputneuron.h
+	"Neuron.h"
+
+1368862930 source:c:\users\teddy\programming\neuralnetwork\src\contextneuron.cpp
+	"ContextNeuron.h"
+
+1368862361 c:\users\teddy\programming\neuralnetwork\include\contextneuron.h
+	"Neuron.h"
+
+1368834085 source:c:\users\teddy\programming\neuralnetwork\src\dictionary.cpp
+	"Dictionary.h"
+
+1368834368 c:\users\teddy\programming\neuralnetwork\include\dictionary.h
+	<cstddef>
+	<vector>
+	<string>
+
+1368839399 source:c:\users\teddy\programming\neuralnetwork\src\biasneuron.cpp
+	"BiasNeuron.h"
+
+1368839415 c:\users\teddy\programming\neuralnetwork\include\biasneuron.h
+	"Neuron.h"
+
